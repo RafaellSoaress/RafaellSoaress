@@ -1,6 +1,6 @@
 ## Heya! 👋 I am Rafael!
 ![GitHub followers](https://img.shields.io/github/followers/RafaellSoaress?style=social)
-![Gmail](https://img.shields.io/static/v1?label=sawarafael@gmail.com&message=Gmail&color=orange&logo=gmail)
+![Gmail](https://img.shields.io/static/v1?label=sawarafael@gmail.com&color=orange&logo=gmail)
 
 
 ### About me
