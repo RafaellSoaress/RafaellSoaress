@@ -1,10 +1,10 @@
 ## Heya! 👋 I am Rafael!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)](https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RafaellSoaress?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/RafaellSoaress.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RafaellSoaress?tab=followers)
 ### About me
 I'm just a full-stack developer passionate about creating creative and dynamic systems, in a way that the user not only feels comfortable using them, but also feels entertained, as if playing a game and having fun.
 
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=Rafael&theme=blue-red)](https://github.com/RafaellSoaress/github-readme-stats)
+[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=Rafael&theme=blue-green)](https://github.com/RafaellSoaress/github-readme-stats)
 
 <!--
 **RafaellSoaress/RafaellSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
