@@ -1,6 +1,6 @@
 ## Heya! 👋 I am Rafael!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)](https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rafael-leandro-diniz-soares-99b170161?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RafaellSoaress?tab=followers)
 ### About me
 I'm just a full-stack developer passionate about creating creative and dynamic systems, in a way that the user not only feels comfortable using them, but also feels entertained, as if playing a game and having fun.
 
