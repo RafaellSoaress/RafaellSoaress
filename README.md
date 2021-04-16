@@ -1,6 +1,6 @@
 ## Heya! 👋 I am Rafael!
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/"/>
-<img alt="sawarafael@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[! [Github BADGE](https://img.shields.io/github/followers/RafaellSoaress?style=social)]
+[!]
 
 
 ### About me
@@ -8,7 +8,8 @@ I'm just a full-stack developer passionate about creating creative and dynamic s
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=Rafael&theme=blue-green)](https://github.com/RafaellSoaress/github-readme-stats)
 
-### Connect with me:
+### Languages and Tools
+
 
 
 
