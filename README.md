@@ -1,4 +1,9 @@
-### Hi there 👋
+## Heya! 👋 I am Rafael!
+[![Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)](https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)
+### About me
+I'm just a full-stack developer passionate about creating creative and dynamic systems, in a way that the user not only feels comfortable using them, but also feels entertained, as if playing a game and having fun.
+
+
 
 <!--
 **RafaellSoaress/RafaellSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
