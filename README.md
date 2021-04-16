@@ -1,6 +1,5 @@
 ## Heya! 👋 I am Rafael!
-[! [Github BADGE](https://img.shields.io/github/followers/RafaellSoaress?style=social)]
-[!]
+![GitHub followers](https://img.shields.io/github/followers/RafaellSoaress?style=social)
 
 
 ### About me
