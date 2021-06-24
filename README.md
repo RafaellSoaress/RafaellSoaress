@@ -1,5 +1,5 @@
 ## **Heya! 👋 I am Rafael!**
-![GitHub followers](https://img.shields.io/github/followers/RafaellSoaress?style=social)
+![GitHub followers](https://img.shields.io/github/followers/sawarafael?style=social)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=sawarafael@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-leandro-diniz-soares-99b170161/)
 
