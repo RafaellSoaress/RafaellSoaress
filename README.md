@@ -7,7 +7,7 @@
 ### **About me**
 *I'm just a full-stack developer passionate about creating creative and dynamic systems, in a way that the user not only feels comfortable using them, but also feels entertained, as if playing a game and having fun.*
 
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=sawarafael&theme=blue-green)](https://github.com/sawarafael/github-readme-stats)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawarafael&show_icons=true&theme=radical)
 
 ### **Languages and Tools**
 
